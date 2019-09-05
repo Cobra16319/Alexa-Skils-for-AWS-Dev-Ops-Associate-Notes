@@ -84,7 +84,7 @@ const HELP_REPROMPT = 'What can I help you with?';
 const STOP_MESSAGE = 'Goodbye!';
 
 const data = [
-  '<audio src = \"https://polly2019.s3.amazonaws.com/ef89f83e-c1c3-46fd-a108-25849dee2a06.mp3\" />',
+  '<audio src = \"https://polly2019.s3.amazonaws.com/your#forthefilehere.mp3\" />',
 ];
 
 const skillBuilder = Alexa.SkillBuilders.standard();
